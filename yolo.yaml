@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/guntunk/split_data/train/images
+val: /content/drive/MyDrive/guntunk/split_data/val/images
+
+nc: 2  # মোট ক্লাস সংখ্যা
+names: ['gun_single', 'gun_double']  # ক্লাসের নাম
